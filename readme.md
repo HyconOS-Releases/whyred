@@ -2,4 +2,6 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/whyred/v4.5/total.svg)](https://github.com/HyconOS-Releases/whyred/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/whyred/v4.0/total.svg)](https://github.com/HyconOS-Releases/whyred/releases)
