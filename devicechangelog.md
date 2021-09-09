@@ -1,5 +1,17 @@
 **Changelog for Xiaomi Redmi Note 5 Pro (whyred)**
 
+**HyconOS V4.5.1 - 10/09/2021**
+- Add Miui Camera
+- Switch to Extended EAS
+- Switch to Pixel libperfmgr Power HAL
+- Update Some Camera Props
+- Disable VSync for CPU rendered apps
+- Enable fluence voice recording
+- XiaomiParts: Add Clear Speaker
+- XiaomiParts: Add Lottie animation for header & Doze
+- Miscellaneous Improvement & fixes
+- Safety Net passes by default
+
 **HyconOS V4.5 - 19/08/2021**
 - Add XiaomiParts
 - Switch to Extended Kernel
